@@ -117,11 +117,11 @@ vipromance/
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tuusuario/vipromance.git
+git clone https://github.com/isairey/AppVipRomance-Laravel.git
 ```
 Acceder al proyecto:
 ```
-cd vipromance
+cd AppVipRomance-Laravel
 ```
 Instalar dependencias:
 ```
